@@ -16,7 +16,7 @@ Then run the given python code in local or in google collab
 Even LLAMA 3 with 70B parameters can be used for more accurate results. But only thing we need is significant hardware resource.
 
 - Sorry for addressing few things later. The whole project's mechanism was created on time. I got very low end device(4gb ram + AMD A4 processor) , so...
-- Please take a look into demo video recorded to see the working of this automation tool created.
+- Please take a look into demo video recorded to see the working of this automation tool I created.
 
 # Google collab notebook
 https://colab.research.google.com/drive/1PQB0efH_F730BXaeioLvx74XmcynVCMs?usp=sharing
